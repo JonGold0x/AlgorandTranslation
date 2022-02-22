@@ -21,11 +21,11 @@ https://twitter.com/Algorand/status/1495823915221929991
 
 > Algorand blockchain now available on Amazon Web Services marketplaces, powered by Guardrails
 
-가드레일스 (Guardrails), 아마존 웹 서비스 (Amazon Web Services) 마켓에서 알고랜드 블락체인 출시
+가드레일스 (Guardrails), 아마존 웹 서비스 (AWS) 마켓에서 알고랜드 블락체인 출시
 
 > Cloud options supplier Guardrail has introduced the supply of the Algorand Blockchain on AWS. 
 
-클라우드 옵션 공급업체인 가드레일 (Guardrail) 이 알고랜드 블락체인의 기능을 AWS 에 도입했습니다.
+클라우드 옵션 공급업체인 가드레일 (Guardrail) 이 알고랜드 블록체인의 기능을 AWS에 도입했습니다.
 
 > The discharge of the Algorand Blockchain on the AWS market makes it doable for customers to securely deploy and function nodes. 
 
@@ -35,6 +35,6 @@ AWS 시장에서 알고랜드 블록체인이 출시되면서 고객이 노드�
 
 크립토 분석가들은 알고랜드의 가치가 V자 패턴을 보이면서 디버젼스 현상으로 강하게 반등할 수 있다고 합니다.
 
-> A number one clouds answer supplier has introduced the arrival of Algorand blockchain on one of many world’s largest marketplaces, AWS. Analysts have a bullish outlook on Algorand value. 
+> A number one clouds supplier has introduced the arrival of Algorand blockchain on one of many world’s largest marketplaces, AWS. Analysts have a bullish outlook on Algorand value. 
 
 최고의 클라우드 공급업체가 세계 최대의 마켓플레이스인 AWS에 알고랜드 블록체인을 도입함으로써 크립토 분석가들은 알고랜드 가치에 대해 낙관적인 전망을 가지고 있습니다.
